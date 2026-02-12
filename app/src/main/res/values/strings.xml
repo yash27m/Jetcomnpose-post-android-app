@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="about_us">Welcome to our application!
+    This app is designed to provide a smooth, user-friendly experience while demonstrating modern Android UI components and navigation. It uses features such as TabLayout, ViewPager, and Fragments to organize content efficiently across multiple tabs.
+    </string>
+    <string name="click">Click</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="laptop">Laptop</string>
+    <string name="charger">Charger</string>
+    <string name="cable">Cable</string>
+    <string name="radio">Radio</string>
+    <string name="none">None</string>
+    <string name="all">All</string>
+    <string name="one">One</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="contact_us">Contact Us</string>
+
+    <string name="login">Log in</string>
+    <string name="log_in_with_one_of_the_following">Log in with one of the following</string>
+    <string name="with_apple">With Apple</string>
+    <string name="with_google">With Google</string>
+    <string name="email">Email*</string>
+    <string name="yash_raj_gmail_com">yash.raj@gmail.com</string>
+    <string name="password">Password*</string>
+    <string name="passwordd">Password</string>
+    <string name="remember_info">Remember info</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="log_in">Log In</string>
+    <string name="about_page">\nab\n</string>
+</resources>
